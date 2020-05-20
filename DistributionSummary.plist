@@ -237,6 +237,31 @@
 						<string>iOS Distribution</string>
 					</dict>
 					<key>name</key>
+					<string>appupdate.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>XCKW5F9L43</string>
+						<key>name</key>
+						<string>lina chai</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>17C6EC3BACEB900EF7EA3CB45A4EB00E3C5FBEB4</string>
+						<key>dateExpires</key>
+						<string>2021/5/13</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
 					<string>catcher.framework</string>
 					<key>team</key>
 					<dict>
