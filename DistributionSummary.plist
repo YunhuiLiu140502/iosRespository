@@ -187,31 +187,6 @@
 						<string>iOS Distribution</string>
 					</dict>
 					<key>name</key>
-					<string>MTBBarcodeScanner.framework</string>
-					<key>team</key>
-					<dict>
-						<key>id</key>
-						<string>XCKW5F9L43</string>
-						<key>name</key>
-						<string>lina chai</string>
-					</dict>
-				</dict>
-				<dict>
-					<key>architectures</key>
-					<array>
-						<string>armv7</string>
-						<string>arm64</string>
-					</array>
-					<key>certificate</key>
-					<dict>
-						<key>SHA1</key>
-						<string>17C6EC3BACEB900EF7EA3CB45A4EB00E3C5FBEB4</string>
-						<key>dateExpires</key>
-						<string>2021/5/13</string>
-						<key>type</key>
-						<string>iOS Distribution</string>
-					</dict>
-					<key>name</key>
 					<string>Mantle.framework</string>
 					<key>team</key>
 					<dict>
@@ -237,7 +212,7 @@
 						<string>iOS Distribution</string>
 					</dict>
 					<key>name</key>
-					<string>SDWebImage.framework</string>
+					<string>Reachability.framework</string>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -262,32 +237,7 @@
 						<string>iOS Distribution</string>
 					</dict>
 					<key>name</key>
-					<string>SDWebImageWebPCoder.framework</string>
-					<key>team</key>
-					<dict>
-						<key>id</key>
-						<string>XCKW5F9L43</string>
-						<key>name</key>
-						<string>lina chai</string>
-					</dict>
-				</dict>
-				<dict>
-					<key>architectures</key>
-					<array>
-						<string>armv7</string>
-						<string>arm64</string>
-					</array>
-					<key>certificate</key>
-					<dict>
-						<key>SHA1</key>
-						<string>17C6EC3BACEB900EF7EA3CB45A4EB00E3C5FBEB4</string>
-						<key>dateExpires</key>
-						<string>2021/5/13</string>
-						<key>type</key>
-						<string>iOS Distribution</string>
-					</dict>
-					<key>name</key>
-					<string>barcode_scan.framework</string>
+					<string>appupdate.framework</string>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -313,6 +263,31 @@
 					</dict>
 					<key>name</key>
 					<string>catcher.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>XCKW5F9L43</string>
+						<key>name</key>
+						<string>lina chai</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>17C6EC3BACEB900EF7EA3CB45A4EB00E3C5FBEB4</string>
+						<key>dateExpires</key>
+						<string>2021/5/13</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>connectivity.framework</string>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -537,7 +512,57 @@
 						<string>iOS Distribution</string>
 					</dict>
 					<key>name</key>
+					<string>image_gallery_saver.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>XCKW5F9L43</string>
+						<key>name</key>
+						<string>lina chai</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>17C6EC3BACEB900EF7EA3CB45A4EB00E3C5FBEB4</string>
+						<key>dateExpires</key>
+						<string>2021/5/13</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
 					<string>image_picker.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>XCKW5F9L43</string>
+						<key>name</key>
+						<string>lina chai</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>17C6EC3BACEB900EF7EA3CB45A4EB00E3C5FBEB4</string>
+						<key>dateExpires</key>
+						<string>2021/5/13</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>image_picker_saver.framework</string>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -587,7 +612,7 @@
 						<string>iOS Distribution</string>
 					</dict>
 					<key>name</key>
-					<string>libwebp.framework</string>
+					<string>multi_image_picker.framework</string>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -612,7 +637,7 @@
 						<string>iOS Distribution</string>
 					</dict>
 					<key>name</key>
-					<string>multi_image_picker.framework</string>
+					<string>open_appstore.framework</string>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -712,6 +737,31 @@
 						<string>iOS Distribution</string>
 					</dict>
 					<key>name</key>
+					<string>share.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>XCKW5F9L43</string>
+						<key>name</key>
+						<string>lina chai</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>17C6EC3BACEB900EF7EA3CB45A4EB00E3C5FBEB4</string>
+						<key>dateExpires</key>
+						<string>2021/5/13</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
 					<string>shared_preferences.framework</string>
 					<key>team</key>
 					<dict>
@@ -771,18 +821,43 @@
 						<string>lina chai</string>
 					</dict>
 				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>17C6EC3BACEB900EF7EA3CB45A4EB00E3C5FBEB4</string>
+						<key>dateExpires</key>
+						<string>2021/5/13</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>webview_flutter.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>XCKW5F9L43</string>
+						<key>name</key>
+						<string>lina chai</string>
+					</dict>
+				</dict>
 			</array>
 			<key>entitlements</key>
 			<dict>
 				<key>application-identifier</key>
-				<string>XCKW5F9L43.com.dyys.gmmsapp_gzepi</string>
+				<string>XCKW5F9L43.com.dyys.ccmisapp</string>
 				<key>com.apple.developer.team-identifier</key>
 				<string>XCKW5F9L43</string>
 				<key>get-task-allow</key>
 				<false/>
 				<key>keychain-access-groups</key>
 				<array>
-					<string>XCKW5F9L43.com.dyys.gmmsapp_gzepi</string>
+					<string>XCKW5F9L43.com.dyys.ccmisapp</string>
 				</array>
 			</dict>
 			<key>name</key>
@@ -790,9 +865,9 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>f4399b9a-c74d-4395-8d15-4ba4922f4694</string>
+				<string>ebca415e-9871-46ec-a419-cff4e804df70</string>
 				<key>name</key>
-				<string>gmmsapp_gzepi_re_adhoc</string>
+				<string>ccmisapp_re_adhoc</string>
 			</dict>
 			<key>team</key>
 			<dict>

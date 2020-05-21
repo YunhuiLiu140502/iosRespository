@@ -19,11 +19,11 @@
 	<string>ad-hoc</string>
 	<key>provisioningProfiles</key>
 	<dict>
-		<key>com.dyys.ccmisapp</key>
-		<string>ccmisapp_re_adhoc</string>
+		<key>com.dyys.gmmsapp_gzepi</key>
+		<string>gmmsapp_gzepi_re_adhoc</string>
 	</dict>
 	<key>signingCertificate</key>
-	<string>Apple Distribution</string>
+	<string>17C6EC3BACEB900EF7EA3CB45A4EB00E3C5FBEB4</string>
 	<key>signingStyle</key>
 	<string>manual</string>
 	<key>stripSwiftSymbols</key>
