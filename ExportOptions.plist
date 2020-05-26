@@ -19,7 +19,7 @@
 	<string>ad-hoc</string>
 	<key>provisioningProfiles</key>
 	<dict>
-		<key>com.dyys.gmmsapp_gzepi</key>
+		<key>com.dyys.gmmsappgzepi</key>
 		<string>gmmsapp_gzepi_re_adhoc</string>
 	</dict>
 	<key>signingCertificate</key>

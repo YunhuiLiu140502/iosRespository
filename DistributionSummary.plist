@@ -775,14 +775,14 @@
 			<key>entitlements</key>
 			<dict>
 				<key>application-identifier</key>
-				<string>XCKW5F9L43.com.dyys.gmmsapp_gzepi</string>
+				<string>XCKW5F9L43.com.dyys.gmmsappgzepi</string>
 				<key>com.apple.developer.team-identifier</key>
 				<string>XCKW5F9L43</string>
 				<key>get-task-allow</key>
 				<false/>
 				<key>keychain-access-groups</key>
 				<array>
-					<string>XCKW5F9L43.com.dyys.gmmsapp_gzepi</string>
+					<string>XCKW5F9L43.com.dyys.gmmsappgzepi</string>
 				</array>
 			</dict>
 			<key>name</key>
@@ -790,7 +790,7 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>f4399b9a-c74d-4395-8d15-4ba4922f4694</string>
+				<string>e13a9624-81fe-4a9d-b186-e81987d6583f</string>
 				<key>name</key>
 				<string>gmmsapp_gzepi_re_adhoc</string>
 			</dict>
